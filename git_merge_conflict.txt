@@ -1,0 +1,14 @@
+ashersiegel@econ2-194-156-dhcp lab-2-version-control-asher-siegel-boulder-main % git add main.cpp
+ashersiegel@econ2-194-156-dhcp lab-2-version-control-asher-siegel-boulder-main % git commit -m "Merging changes with return value <selected value>"
+[Asher 6ac1c5d] Merging changes with return value <selected value>
+ashersiegel@econ2-194-156-dhcp lab-2-version-control-asher-siegel-boulder-main % git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 402 bytes | 402.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/asher-siegel-boulder/lab-2-version-control-asher-siegel-boulder-main.git
+   9f5fcd5..6ac1c5d  Asher -> Asher
+ashersiegel@econ2-194-156-dhcp lab-2-version-control-asher-siegel-boulder-main % 
